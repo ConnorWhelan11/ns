@@ -1,0 +1,28 @@
+{
+    "expo": {
+        "name": "NextStep mHealth",
+        "slug": "nextstepmhealth",
+        "version": "1.1.0",
+        "sdkVersion": "30.0.0",
+        "orientation": "portrait",
+        "icon": "./app.png",
+        "primaryColor": "#00AAFF",
+        "splash": {
+            "image": "./splash.png",
+            "resizeMode": "contain",
+            "backgroundColor": "#ffffff"
+        },
+        "packagerOpts": {
+            "assetExts": [
+                "otf"
+            ]
+        },
+        "androidStatusBar": {
+            "backgroundColor": "#ffffff",
+            "barStyle": "dark-content"
+        },
+        "ios": {
+          "bundleIdentifier": "com.nextstepworld.nextstep",
+        },
+    }
+}
